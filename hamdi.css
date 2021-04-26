@@ -1,0 +1,58 @@
+p{
+    color: grey;
+    font-style: normal;
+    font-size: medium;
+    text-align: center;
+    -moz-text-decoration-style: inherit;
+
+}
+#About{
+margin: auto;
+text-align: center;
+}
+.ABOUT{
+    background-color:blue;
+    margin: auto;
+    text-align: center;
+    
+}
+h1{text-align: center;
+}
+h2{text-align: center;
+    background-attachment: black;
+    font: medium;
+    color: indianred;
+}
+img{
+
+    border: thistle;
+    border-radius: 8px;
+    width: 200px;
+    font-size: medium;
+    size: unset;
+    
+}
+footer{
+    text-align: end;
+    text: decoration thickness 20px;;
+    text-emphasis-color: black;
+    font-style: italic;
+
+}
+.row{
+    content:counter;
+    display:table;
+    clear:both;
+}
+.column{
+    float: left;
+    width: 33.33%;
+
+}
+
+hr{
+    color:purple ;
+    height: 2px;
+    border-width: 0px;
+    background-color: purple;
+}
